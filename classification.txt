@@ -1,0 +1,79 @@
+Foundations
+A1010 Standard Foundations
+A1011 Wall Foundations
+    01111 Footings - "Footings + Continuous" or "Footings + Wall" or "Footings + Foundations" or "Keyway" or "Footings + Formwork" or "Footings + Steel" or "Footings + Concrete" or "Footings + Screed"
+    01112 Foundation Walls & Pilasters – "Foundation + Walls" or "Foundation + Pilasters" or "Walls + Pilasters" or "Concrete Masonry + Foundation" or "CMU + Foundation"
+    01113 Excavating & Backfilling – "Excavating + Wall" or "Excavating + Foundations" or "Backfilling + Wall" or "Backfilling + Foundations" or "Perimeter + Insulation" or "Hauling + Foundations"
+A1012 Column Foundations & Pile Caps
+    01121 Column Footings – "Footings + Column" or "Footings + Spread" or "Footings + Individual"
+    01122 Pile Caps – "Pile + Caps"
+    01123 Column Piers & Base Plates – "Piers" or "Base + Plates" or "Anchor + Bolts"
+    01124 Excavating & Backfilling - "Excavating + Column" or "Backfilling + Column" or "Hand-shaped + Bottom"
+A1013 Perimeter Drainage & Insulation
+    02151 Perimeter Drains – "Perimeter + Drains"
+    02152 Under Slab Drains – "Foundations + Drains" or "Basement + Drains" or "Drain Pipe" or "Drain + Tile"
+A1020 Special Foundations
+A1021 Pile Foundations
+    01211 Mobilization/Demobilization – "Foundations + Mobilization" or "Foundations + Demobilization" or "Special + Foundations"
+    01212 Pile Tests – "Foundations + Pile + Tests"
+    01213 Piles - "Foundations + Pile" or "Cast-in-Place + Piles" or "CIP + Piles" or "Pipe + Piles" or "Steel + H-piles" or "Step-tapered + Piles" or "Wood + Piles" or "Pile + Driving" or "Pile + Cut-offs"
+A1022 Grade Beams – "Grade + Beams"
+A1023 Caissons
+    01221 Open Caissons – "Open + Caissons"
+    01222 Caisson Accessories – "Caisson + Accessories"·
+01223 Special Caissons – "Drilled + Caissons" or "Caisson + Casings"
+A1024 Underpinning
+    01231 Temporary Shoring to Structure – "Temporary + Shoring"
+    01232 Excavating – "Excavating + Underpinning"
+    01233 Sheeting & Shoring to Excavation – "Sheeting + Excavation" or "Shoring + Excavation"
+    01234 Backfilling – "Backfilling + Underpinning"
+    01235 Concreting – "Concreting + Underpinning"
+    01236 Formwork – "Formwork + Underpinning"
+    01237 Steel Bar Reinforcing – "Steel + Bar + Underpinning"
+    01238 Cutoff Projecting Footings – "Cutoff + Underpinning"
+    01239 Grouting & Dry Packing – "Grouting + Underpinning" or "Dry + Underpinning"
+A1025 Dewatering
+    01241 Pumping – "Pumping + Foundations" or "Dewatering + Foundations" or "Remove + Water + Foundations"
+    01242 Well-Point – "Well-Point + Foundations"
+    01243 Gravity Drainage – "Gravity + Drainage + Foundations" or "Gravity + Dewatering + Foundations"
+A1026 Raft Foundations
+    01251 Slab Construction – "Slab + Foundations" or "Raft + Foundations" or "Raft + Foundations" or "Raft + Construction"
+    01252 Base Courses – "Base + Foundations"
+    01253 Moisture Protection – "Moisture + Foundations" or "Protection + Foundations"
+A1027 Pressure Injected Grouting – "Grouting + Foundations" or "Pressure + Grouting" or "Injected + Grouting" or "Foundations + Stabilization"
+A1029 Other Special Conditions
+    01261 Removal of Old Foundations – "Removal + Foundations"
+    01262 Rock Grouting – "Rock + Grouting + Foundations"
+    01263 Tunneling – " Tunneling + Foundations"
+    01264 Shoring Existing Buildings – "Compaction + Foundations"
+A1030 Slab on Grade
+A1031 Standard Slab on Grade
+    02111 Slab Construction – "Slab + Grade" or "Under-Slab + Insulation" or "Edge + Forms + Slab" or "Treatment + Slab" or "Vapor + Retarder" or "Joints + Slab"
+    02112 Base Courses - "Base + Slab"
+    02113 Moisture Protection – "Moisture + Slab" or "Protection + Slab"
+A1032 Structural Slab on Grade
+    02121 Slab Construction – "Structural + Slab + Grade" or "Reinforcing + Slab"
+    02122 Grade Beams - "Grade + Beams" or "Slab + Beams"
+    02123 Base Courses – "Base + Structural + Slab"
+    02124 Moisture Protection - "Moisture + Slab + Structural" or "Protection + Slab + Structural"
+A1033 Inclined Slab on Grade
+    02131 Ramps – "Slab + Ramps"
+    02132 Inclined Floor Slabs – "Inclined + Slab" or "Inclined + Grade"
+    02133 Stepped Slabs on Grade – "Stepped + Grade"
+    02134 Steps - "Step + Slab"
+A1034 Trenches, Pits & Bases
+    02141 Trenches & Depression in Slabs – "Trenches" or "Depression + Slabs"
+    02142 Pits – "Pits"
+    02143 Equipment & Machine Bases – "Bases + Equipment" or "Cast-in-place + Bases"
+A1035 Under-Slab Drainage & Insulation - "Under-Slab + Drainage" or "Slab + Drainage"
+A2010 Basement Excavation
+A2011 Excavation for Basements
+    02211 Excavating – "Excavating + Basements"
+    02212 Waste Material Disposal – "Waste + Basements" or "Disposal + Basements"
+A2012 Structure Back Fill & Compaction
+    02221 Structure Backfill with Excavated Material - "Backfilling + Basements"
+    02222 Borrow Backfill - "Hauling + Foundations"
+A2013 Shoring
+    02231 Sheeting and Shoring – "Sheeting + Shoring" or "Sheet + Piling"
+    02232 Tiebacks & Anchors – "Tiebacks + Shoring" or "Anchors + Shoring" or "Tiebacks + Basements" or "Anchors + Basements"
+    02233 Slurry Walls – "Slurry + Walls" or "Slurry + Basements" or "Slurry + Foundations"
