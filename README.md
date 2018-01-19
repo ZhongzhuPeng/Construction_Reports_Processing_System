@@ -20,6 +20,8 @@ Seatle_work_search_keywords.py: Output the results of searching key words.
 
 Two documents of previous documents included: "Text Mining for Daily Reports of Construction" and "Tree Structure".
 
+**Update:** upload one more ipynb file: Information Extraction and database manipulation.ipynb
+
 #### Results:
 The results of word frequency, TF-IDF and visualization saved in CSV and XLSX flies.
 The results of tree structure of reports and searching key words are saved in the HTML files in the folder HTML.
